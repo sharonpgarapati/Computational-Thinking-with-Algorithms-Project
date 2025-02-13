@@ -10,7 +10,7 @@ This project benchmarks the performance of five different sorting algorithms imp
 - Selection Sort
 - Insertion Sort
 - Merge Sort
-- Quick Sort
+- Counting Sort
 
 Project Structure
 
