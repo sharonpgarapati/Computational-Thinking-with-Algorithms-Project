@@ -2,6 +2,10 @@
 
 # Benchmarking Five Sorting Algorithms in Java
 
+Author: Sharon P Garapati
+
+Email: G00438803@atu.ie
+
 Overview
 
 This project benchmarks the performance of five different sorting algorithms implemented in Java. The goal is to compare the execution times of each algorithm when sorting arrays of random integers. The algorithms included in this benchmark are:
