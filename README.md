@@ -36,15 +36,24 @@ How to Run
    ```bash
    javac -d bin src/SortingBenchmark.java
 2.	Run the benchmark:
+   
 After compilation, execute the benchmark with:
+
 java -cp bin SortingBenchmark
+
 Customization
+
 •	Input Size: You can modify the size of the arrays to benchmark larger or smaller datasets.
+
 •	Number of Trials: Increase the number of trials for each algorithm to obtain more stable timing results.
+
 •	Algorithms: Feel free to add additional sorting algorithms or modify the existing implementations.
 Output
+
 The program prints the execution time (in nanoseconds or milliseconds) for each sorting algorithm, allowing you to compare their performance under the same conditions.
+
 License
+
 This project is licensed under the MIT License.
 ________________________________________
 This project is intended for educational purposes and performance comparison of sorting algorithms in Java.
